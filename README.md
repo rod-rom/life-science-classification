@@ -2,7 +2,6 @@
 ## Table of Context
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
-3. [Contributors](#contributors)
 4. [FAQs](#faqs)
 ## General info
 ***
@@ -22,6 +21,6 @@ We experimented with different machine learning models on different datasets to 
 ***
 1. **What machine learning models have you used?**
 We used _decision trees, naïve bayes, k nearest neighbors, and suppor vector machines_ for our project. 
-2. __What models achieved the best accuracy__ 
+2. **What models achieved the best accuracy?**
 _Suppor vector machines_ achieved the best accuracy on the stroke dataset.
 
